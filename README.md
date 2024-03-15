@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristoferMtz
-- 👀 I’m interested in Java, Python, HTML, and Android Studio.
+- 👀 I’m interested in Javascript, .NET, ASP.NET.
 - 🌱 I’m currently learning a little bit of everything.
 - 💞️ I’m looking to collaborate on systems and applications.
 - 📫 How to reach me Toluca, Estado de México.
